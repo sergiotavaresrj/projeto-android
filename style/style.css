@@ -120,7 +120,8 @@ main img.pequena {
 
 main h1 {
     color: var(--cor5);
-    font: normal var(--fonte-android);
+    font-weight: normal;
+    font-family: var(--fonte-android);
 }
 
 main h2 {
