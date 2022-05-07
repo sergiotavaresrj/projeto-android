@@ -198,7 +198,7 @@ html {
     background-color: var(--cor3);
     border: none;
     margin-top: -15px;
-    padding: 13px;
+    padding: 20px 25px;
     border-radius: 30px;
 }
 
@@ -208,7 +208,7 @@ html {
     box-shadow: 1px 1px 11px rgba(0, 0, 0, 0.39);
 }
 
-#button-top a {
+#button-top {
     color: rgb(255, 255, 255);
     font-size: 15px;
     font-weight: bold;
